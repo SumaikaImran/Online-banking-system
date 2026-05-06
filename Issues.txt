@@ -1,0 +1,7 @@
+['imran45@gmail.com', 'Showing my current balance less than actual']
+['imran45@gmail.com', 'I want to freeze my account for six months']
+['maha45@gmail.com', 'I have already paid loan but the status is still unpaid']
+['maha45@gmail.com', 'I want to update my personal details']
+['maha45@gmail.com', 'My loan account is showing invalid interest rate']
+['aysh72@gmail.com', 'Invalid status of balance']
+['haider45@gmail.com', 'I want to update my details']
